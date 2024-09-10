@@ -1,0 +1,6 @@
+{
+    "editor.foldingImportsByDefault": true,
+    "reactSnippets.settings.importReactOnTop": true,
+    "reactSnippets.settings.prettierEnabled": false,
+    "reactSnippets.settings.typescript": true
+}
